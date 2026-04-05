@@ -78,9 +78,12 @@ Logistic Regression performed better due to its stability and generalization abi
 
 ## Project Structure
 AI_ML_Task4/
-│── AI_ML_Task4_Classification_Evaluation.ipynb
-│── README.md
-│── Task4_Report.pdf
+
+- AI_ML_Task4_Classification_Evaluation.ipynb
+
+- README.md
+
+- Task4_Report.pdf
 
 ---
 
